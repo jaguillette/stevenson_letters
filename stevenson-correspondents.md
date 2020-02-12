@@ -1,5 +1,9 @@
 ## Robert Louis Stevenson Correspondents and Friends
 
+
+### bit.ly/fundamentals-scalar
+
+
 See: [http://robert-louis-stevenson.org/friends/](http://robert-louis-stevenson.org/friends/)
 
 - Sidney Colvin
